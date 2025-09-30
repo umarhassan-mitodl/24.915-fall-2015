@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ]
+  ],
+  "legacy_uid": "9bff2409-6453-777f-38e5-5c662d0e7767",
+  "instructors": {
+    "content": [
+      "29b32028-314d-55a5-e5a8-7770ba8ab63a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ceb01a24-7960-c746-f443-24ee761b9cdd",
+    "website": "24-915-linguistic-phonetics-fall-2015"
+  },
+  "course_title": "Linguistic Phonetics",
+  "hide_download": true,
+  "course_description": "This course is about the study of speech sounds; how we produce and perceive them and their acoustic properties. Topics include the influence of the production and perception systems on phonological patterns and sound change, students learn acoustic analysis and experimental techniques. Students taking the graduate version complete different assignments.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "24.963",
+  "primary_course_number": "24.915",
+  "course_image_thumbnail": {
+    "content": "9dc1e017-dddf-f0a7-bb17-f27579088a48",
+    "website": "24-915-linguistic-phonetics-fall-2015"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Written Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "c7e84faf-95ff-40ec-a8c3-9ea3eeba614e",
+  "site_short_id": "24.915-fall-2015",
+  "site_url_path": "courses/24-915-linguistic-phonetics-fall-2015",
+  "title": "Course Metadata"
+}

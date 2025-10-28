@@ -5,8 +5,6 @@ description: This file contains the information regarding write up on affricate 
 file: /courses/24-915-linguistic-phonetics-fall-2015/354b2aa203d3f01430727c84a616e52c_MIT24_915F15_Assignment7.pdf
 file_size: 1061329
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

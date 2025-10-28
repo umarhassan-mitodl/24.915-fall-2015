@@ -4,8 +4,6 @@ description: This file contains the information regarding mandarin.
 file: /courses/24-915-linguistic-phonetics-fall-2015/0910b25673245fed704780593dce87e9_mandarin.aiff
 file_size: 5859404
 file_type: audio/x-aiff
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

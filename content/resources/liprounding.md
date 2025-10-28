@@ -4,8 +4,6 @@ description: This file contains the information regarding liprounding.
 file: /courses/24-915-linguistic-phonetics-fall-2015/37e98ad25cb15569b2e92f8cde589e04_liprounding.wav
 file_size: 386342
 file_type: audio/x-wav
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

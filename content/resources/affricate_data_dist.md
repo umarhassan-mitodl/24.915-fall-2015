@@ -5,8 +5,6 @@ description: This excel file contains the information regarding data - excel spr
 file: /courses/24-915-linguistic-phonetics-fall-2015/18b130e84665643a9341fd075c2e7936_affricate_data_dist.xlsx
 file_size: 93035
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

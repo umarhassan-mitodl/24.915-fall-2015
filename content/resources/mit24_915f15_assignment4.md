@@ -5,8 +5,6 @@ description: This file contains the information regarding the Acoustics assignme
 file: /courses/24-915-linguistic-phonetics-fall-2015/a513dddc02357f5826b88f81c35bcb4d_MIT24_915F15_Assignment4.pdf
 file_size: 94339
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

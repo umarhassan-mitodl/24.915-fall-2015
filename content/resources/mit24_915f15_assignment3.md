@@ -4,8 +4,6 @@ description: Liprounding acoustics assignment for F15 24.915
 file: /courses/24-915-linguistic-phonetics-fall-2015/ff98482be53cfa8a08b2e39b4826d6cd_MIT24_915F15_Assignment3.pdf
 file_size: 177224
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

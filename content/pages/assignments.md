@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains PDF links to all assignments and their corresponding
   supplemental audio files and Excel spreadsheets.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
